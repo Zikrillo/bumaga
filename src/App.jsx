@@ -14,7 +14,7 @@ function App() {
       label: 'Sotish',
       icon: 'pi pi-dollar',
       command: () => {
-        location('./');
+        location('./bumaga');
       }
     },
     {
