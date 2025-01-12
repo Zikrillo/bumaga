@@ -14,14 +14,14 @@ function App() {
       label: 'Sotish',
       icon: 'pi pi-dollar',
       command: () => {
-        location('/');
+        location('./');
       }
     },
     {
       label: 'Qarz',
       icon: 'pi pi-wallet',
       command: () => {
-        location('/debt');
+        location('./debt');
       }
       
     },
@@ -29,7 +29,7 @@ function App() {
       label: "Maxsulotni omborga qo'shish",
       icon: 'pi pi-plus',
       command: () => {
-        location('/add');
+        location('./add');
       }
     }   
   ];
