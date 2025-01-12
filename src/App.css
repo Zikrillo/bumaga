@@ -1,0 +1,16 @@
+
+.mb-20{
+  margin-bottom: 20px;
+}
+.d-col{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.ml-10{
+  margin-left: 10px;
+}
+.row{
+  display: flex;
+  gap: 10px;
+}
